@@ -1,0 +1,2 @@
+eligible_pairs,pressure_ratio_q25,pressure_ratio_median,pressure_ratio_q75,pressure_ratio_max,eligibility_rule
+3862,3.6028816628137585,10.824720936387973,51.33680401665934,3195.7335445917615,different locations; monthly modeled consumption differs by no more than 3%

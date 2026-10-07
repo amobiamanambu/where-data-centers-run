@@ -1,0 +1,51 @@
+location,location_label,source_component,source_fraction,reference_it_load_mw,modeled_consumptive_demand_ml_day,pressure_p95_pct,hydrology_source_id
+Forest_City_NC,Forest City,Second Broad River,1.0,50,3.5,5.109182106589923,USGS_02150495
+Fort_Wayne_IN,Fort Wayne,St. Joseph River,1.0,50,3.5,1.362448561757313,USGS_04180500
+New_Albany_OH,New Albany,Hoover Reservoir / Big Walnut Creek release,1.0,50,3.5,1.3495952734388477,USGS_03228500
+Mayes_County_OK,Mayes County,Grand (Neosho) River,1.0,50,3.5,0.635809328833385,USGS_07191500
+Seattle_WA,Seattle,Cedar River component,0.7,50,3.5,0.36414534287730244,USGS_12117500
+Atlanta_GA,Atlanta,Chattahoochee River,1.0,50,3.5,0.15617587225710877,USGS_02336000
+Henrico_VA,Henrico,James River,1.0,50,3.5,0.13124504494267122,USGS_02037500
+Clarksville_TN,Montgomery County / Clarksville,Cumberland River below Cheatham Dam,1.0,50,3.5,0.0315567130112907,USACE_ASHT1_CHEATHAM
+Council_Bluffs_IA,Council Bluffs,Missouri River source family,1.0,50,3.5,0.009170326858173821,USGS_06610000
+Kansas_City_MO,Kansas City,Missouri River surface-water component,0.8,50,3.5,0.004911831724893101,USGS_06893000
+Forest_City_NC,Forest City,Second Broad River,1.0,100,7.0,10.218364213179846,USGS_02150495
+Fort_Wayne_IN,Fort Wayne,St. Joseph River,1.0,100,7.0,2.724897123514626,USGS_04180500
+New_Albany_OH,New Albany,Hoover Reservoir / Big Walnut Creek release,1.0,100,7.0,2.6991905468776953,USGS_03228500
+Mayes_County_OK,Mayes County,Grand (Neosho) River,1.0,100,7.0,1.27161865766677,USGS_07191500
+Seattle_WA,Seattle,Cedar River component,0.7,100,7.0,0.7282906857546049,USGS_12117500
+Atlanta_GA,Atlanta,Chattahoochee River,1.0,100,7.0,0.31235174451421754,USGS_02336000
+Henrico_VA,Henrico,James River,1.0,100,7.0,0.26249008988534245,USGS_02037500
+Clarksville_TN,Montgomery County / Clarksville,Cumberland River below Cheatham Dam,1.0,100,7.0,0.0631134260225814,USACE_ASHT1_CHEATHAM
+Council_Bluffs_IA,Council Bluffs,Missouri River source family,1.0,100,7.0,0.018340653716347643,USGS_06610000
+Kansas_City_MO,Kansas City,Missouri River surface-water component,0.8,100,7.0,0.009823663449786201,USGS_06893000
+Forest_City_NC,Forest City,Second Broad River,1.0,250,17.5,25.545910532949616,USGS_02150495
+Fort_Wayne_IN,Fort Wayne,St. Joseph River,1.0,250,17.5,6.812242808786565,USGS_04180500
+New_Albany_OH,New Albany,Hoover Reservoir / Big Walnut Creek release,1.0,250,17.5,6.747976367194239,USGS_03228500
+Mayes_County_OK,Mayes County,Grand (Neosho) River,1.0,250,17.5,3.179046644166925,USGS_07191500
+Seattle_WA,Seattle,Cedar River component,0.7,250,17.5,1.820726714386512,USGS_12117500
+Atlanta_GA,Atlanta,Chattahoochee River,1.0,250,17.5,0.7808793612855439,USGS_02336000
+Henrico_VA,Henrico,James River,1.0,250,17.5,0.6562252247133561,USGS_02037500
+Clarksville_TN,Montgomery County / Clarksville,Cumberland River below Cheatham Dam,1.0,250,17.5,0.1577835650564535,USACE_ASHT1_CHEATHAM
+Council_Bluffs_IA,Council Bluffs,Missouri River source family,1.0,250,17.5,0.0458516342908691,USGS_06610000
+Kansas_City_MO,Kansas City,Missouri River surface-water component,0.8,250,17.5,0.0245591586244655,USGS_06893000
+Forest_City_NC,Forest City,Second Broad River,1.0,400,28.0,40.873456852719386,USGS_02150495
+Fort_Wayne_IN,Fort Wayne,St. Joseph River,1.0,400,28.0,10.899588494058504,USGS_04180500
+New_Albany_OH,New Albany,Hoover Reservoir / Big Walnut Creek release,1.0,400,28.0,10.796762187510781,USGS_03228500
+Mayes_County_OK,Mayes County,Grand (Neosho) River,1.0,400,28.0,5.08647463066708,USGS_07191500
+Seattle_WA,Seattle,Cedar River component,0.7,400,28.0,2.9131627430184195,USGS_12117500
+Atlanta_GA,Atlanta,Chattahoochee River,1.0,400,28.0,1.2494069780568702,USGS_02336000
+Henrico_VA,Henrico,James River,1.0,400,28.0,1.0499603595413698,USGS_02037500
+Clarksville_TN,Montgomery County / Clarksville,Cumberland River below Cheatham Dam,1.0,400,28.0,0.2524537040903256,USACE_ASHT1_CHEATHAM
+Council_Bluffs_IA,Council Bluffs,Missouri River source family,1.0,400,28.0,0.07336261486539057,USGS_06610000
+Kansas_City_MO,Kansas City,Missouri River surface-water component,0.8,400,28.0,0.039294653799144805,USGS_06893000
+Forest_City_NC,Forest City,Second Broad River,1.0,500,35.0,51.09182106589923,USGS_02150495
+Fort_Wayne_IN,Fort Wayne,St. Joseph River,1.0,500,35.0,13.62448561757313,USGS_04180500
+New_Albany_OH,New Albany,Hoover Reservoir / Big Walnut Creek release,1.0,500,35.0,13.495952734388478,USGS_03228500
+Mayes_County_OK,Mayes County,Grand (Neosho) River,1.0,500,35.0,6.35809328833385,USGS_07191500
+Seattle_WA,Seattle,Cedar River component,0.7,500,35.0,3.641453428773024,USGS_12117500
+Atlanta_GA,Atlanta,Chattahoochee River,1.0,500,35.0,1.5617587225710878,USGS_02336000
+Henrico_VA,Henrico,James River,1.0,500,35.0,1.3124504494267122,USGS_02037500
+Clarksville_TN,Montgomery County / Clarksville,Cumberland River below Cheatham Dam,1.0,500,35.0,0.315567130112907,USACE_ASHT1_CHEATHAM
+Council_Bluffs_IA,Council Bluffs,Missouri River source family,1.0,500,35.0,0.0917032685817382,USGS_06610000
+Kansas_City_MO,Kansas City,Missouri River surface-water component,0.8,500,35.0,0.049118317248931,USGS_06893000

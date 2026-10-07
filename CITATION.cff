@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these data, code, or figures, please cite this repository."
+title: "Where Data Centers Run"
+type: software
+authors:
+  - family-names: Amanambu
+    given-names: Amobichukwu C.
+  - family-names: Frame
+    given-names: Jonathan M.
+  - family-names: Otsiola
+    given-names: Adeyemi
+version: 2.0.0
+date-released: 2026-10-07
+repository-code: "https://github.com/amobiamanambu/where-data-centers-run"
+license: MIT

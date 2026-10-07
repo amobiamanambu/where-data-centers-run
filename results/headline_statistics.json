@@ -1,0 +1,50 @@
+{
+  "study_scope": {
+    "audited_locations": 20,
+    "source_flow_systems": 10,
+    "source_flow_record_end": "2025-09-30"
+  },
+  "reported_water": {
+    "us_location_year_observations": 83,
+    "us_locations_in_2025": 26,
+    "us_2025_withdrawal_mg": 10807.6,
+    "us_2025_consumption_mg": 8446.9,
+    "global_locations_in_2025": 40,
+    "global_2025_withdrawal_mg": 12541.5,
+    "global_2025_consumption_mg": 9603.75
+  },
+  "source_flow": {
+    "common_demand_ml_day": 17.5,
+    "minimum_p95_pct": 0.0245591586244655,
+    "minimum_location": "Kansas City",
+    "maximum_p95_pct": 25.545910532949616,
+    "maximum_location": "Forest City",
+    "cross_system_p95_spread": 1040.1785714068042,
+    "reference_loads_mw": [
+      50,
+      100,
+      250,
+      400,
+      500
+    ],
+    "reference_load_spread_min": 1040.178571406804,
+    "reference_load_spread_max": 1040.1785714068042,
+    "central_p95_location_percent": 93.6572212159243,
+    "central_p95_architecture_percent": 5.751321061346246,
+    "central_p95_interaction_residual_percent": 0.5914577227294738,
+    "near_equal_monthly_pairs": 3862,
+    "near_equal_pressure_ratio_median": 10.824720936387973
+  },
+  "facility_water_electricity": {
+    "observations": 70,
+    "facilities": 15,
+    "positive_intensity_min_l_per_total_kwh": 0.0257466529351184,
+    "positive_intensity_max_l_per_total_kwh": 2.311716753863001
+  },
+  "regional_efficiency": {
+    "matched_regions": 4,
+    "regions_with_lower_2025_wue": 4,
+    "wue_change_min": -0.12,
+    "wue_change_max": -0.04000000000000001
+  }
+}

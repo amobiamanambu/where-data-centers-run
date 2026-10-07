@@ -1,0 +1,241 @@
+location,location_label,climate_zone,weather_file,architecture_id,practice,month,hours,pue_mean,withdrawal_wue_l_per_kwh,consumption_wue_l_per_kwh,blowdown_wue_l_per_kwh,component_balance_error_l_per_kwh
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,1,744,1.117337936427061,0.0624640979781506,0.0624640979781506,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,2,672,1.1218759513502996,0.1163134582083709,0.1163134582083709,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,3,744,1.1235585716428005,0.1537833583567512,0.1537833583567512,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,4,720,1.1450598587518468,0.4368544882277173,0.4368544882277173,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,5,744,1.179334172149611,0.8718635642391552,0.8718635642391552,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,6,720,1.2038155105819173,1.1316890778500306,1.1316890778500306,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,7,744,1.2538693637874796,1.7320920115452378,1.7320920115452378,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,8,744,1.2797434892073094,2.0245229974108807,2.0245229974108807,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,9,720,1.2118009539648056,1.2558007068301578,1.2558007068301578,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,10,744,1.1528619544724237,0.5243631243313216,0.5243631243313216,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1342679125213395,0.2945223389412939,0.2945223389412939,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,climate_responsive_hybrid,central,12,744,1.1190302450720673,0.0918767647807605,0.0918767647807605,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,1,744,1.626059444738378,2.8442993596985415,2.8442993596985415,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,2,672,1.6354169082226255,2.86575146233683,2.86575146233683,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,3,744,1.6505536189894658,2.9018598930866184,2.9018598930866184,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,4,720,1.6640150651732069,2.9338077396099775,2.9338077396099775,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,5,744,1.680776104553666,2.971780689780056,2.971780689780056,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,6,720,1.69564392215111,3.0047494790125913,3.0047494790125913,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,7,744,1.7069396727542283,3.0313317749763926,3.0313317749763926,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,8,744,1.7114361972187615,3.0406458326161245,3.0406458326161245,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,9,720,1.6923274626212823,2.997199335413259,2.997199335413259,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,10,744,1.6662332571918377,2.9385601518964193,2.9385601518964193,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,11,720,1.648258027005384,2.8961159475517344,2.8961159475517344,0.0,0.0
+Atlanta_GA,Atlanta,3A,USA_GA_Atlanta-Hartsfield-Jackson.Intl.AP.722190_TMY3.epw,water_cooled_evaporative,central,12,744,1.635772650361278,2.8674262778508433,2.8674262778508433,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,1,744,1.111019287023031,0.0,0.0,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,2,672,1.1112551588678734,0.0,0.0,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,3,744,1.1111593851308672,0.000233756295815,0.000233756295815,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,4,720,1.1125233300506523,0.0201672907897441,0.0201672907897441,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,5,744,1.1141659503663353,0.042369072798319,0.042369072798319,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,6,720,1.119538396014809,0.1145059287797452,0.1145059287797452,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,7,744,1.1342604468588846,0.3130336984779541,0.3130336984779541,8.572805188132631e-20,8.572805188132631e-20
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,8,744,1.1459359884135425,0.4667805989717004,0.4667805989717004,8.590544402164798e-20,8.590544402164798e-20
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,9,720,1.131052380579229,0.2695432448991837,0.2695432448991837,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,10,744,1.1152486797533263,0.0554481809080522,0.0554481809080522,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1149778953269789,0.0538780337546328,0.0538780337546328,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,climate_responsive_hybrid,central,12,744,1.1109412238554457,0.0,0.0,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,1,744,1.627337722786412,2.8541988574081656,2.8541988574081656,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,2,672,1.631576138194635,2.862229661017224,2.862229661017224,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,3,744,1.6359110772183718,2.8748552854379894,2.8748552854379894,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,4,720,1.6431970446668125,2.8923550511622422,2.8923550511622422,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,5,744,1.650193491623559,2.9091435253074893,2.9091435253074893,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,6,720,1.656889228565966,2.924700220620245,2.924700220620245,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,7,744,1.6634149178695483,2.9402787999211224,2.9402787999211224,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,8,744,1.668551923258148,2.9514822436158528,2.9514822436158528,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,9,720,1.65972444938755,2.9317896958946643,2.9317896958946643,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,10,744,1.6472495415057566,2.9015399764420633,2.9015399764420633,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,11,720,1.6386523619663864,2.8821084514733153,2.8821084514733153,0.0,0.0
+Seattle_WA,Seattle,4C,USA_WA_Seattle-Tacoma.Intl.AP.727930_TMY3.epw,water_cooled_evaporative,central,12,744,1.6298104806561151,2.861122366491106,2.861122366491106,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,1,744,1.115347125949535,0.0203157770725932,0.0203157770725932,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,2,672,1.1162095989606573,0.0240964544823088,0.0240964544823088,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,3,744,1.1135421659503484,0.0083849098497268,0.0083849098497268,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,4,720,1.1206819391166851,0.1147089650699357,0.1147089650699357,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,5,744,1.1531656945691704,0.5353142997197005,0.5353142997197005,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,6,720,1.2353089703392828,1.5338326677410938,1.5338326677410938,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,7,744,1.232108501171488,1.4676553225961126,1.4676553225961126,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,8,744,1.2824642419406036,2.087335421352498,2.087335421352498,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,9,720,1.1902107176305776,0.9937211502391065,0.9937211502391065,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,10,744,1.125608176194095,0.1751529339592915,0.1751529339592915,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1183478596509573,0.0878750622080945,0.0878750622080945,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,climate_responsive_hybrid,central,12,744,1.1137199239328628,0.0138433220925096,0.0138433220925096,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,1,744,1.6084194074270486,2.797689503789312,2.797689503789312,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,2,672,1.6080517863357862,2.796798943685416,2.796798943685416,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,3,744,1.6264532935196536,2.84188926608285,2.84188926608285,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,4,720,1.650372993588579,2.8999428476712485,2.8999428476712485,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,5,744,1.6702133697290746,2.9463607599986226,2.9463607599986226,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,6,720,1.6983884460956151,3.0108786106145113,3.0108786106145113,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,7,744,1.7027541480047317,3.020784707824903,3.020784707824903,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,8,744,1.7060936802324411,3.029293682646047,3.029293682646047,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,9,720,1.6794200632550302,2.968816587207249,2.968816587207249,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,10,744,1.6512087888692486,2.9036971661295117,2.9036971661295117,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,11,720,1.6313400659397612,2.857049719965868,2.857049719965868,0.0,0.0
+Council_Bluffs_IA,Council Bluffs,5A,USA_NE_Omaha-Eppley.Airfield.725500_TMY3.epw,water_cooled_evaporative,central,12,744,1.612130906247316,2.8080799116456285,2.8080799116456285,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,1,744,1.116189676329588,0.0439261580049801,0.0439261580049801,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,2,672,1.112344948291225,0.0027414686525255,0.0027414686525255,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,3,744,1.1252699277753242,0.1832938173976162,0.1832938173976162,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,4,720,1.1432580643572043,0.4167331294013547,0.4167331294013547,8.859337154113877e-20,8.859337154113877e-20
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,5,744,1.1608065229061413,0.6249610660317398,0.6249610660317398,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,6,720,1.2445970382263416,1.6131057498439487,1.6131057498439487,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,7,744,1.2886493934339267,2.114247426750434,2.114247426750434,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,8,744,1.271191753929204,1.919406582275882,1.919406582275882,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,9,720,1.1975017644323178,1.0846945621550506,1.0846945621550506,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,10,744,1.1472300455009297,0.463965234649908,0.463965234649908,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1234580948173776,0.1593882205273772,0.1593882205273772,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,climate_responsive_hybrid,central,12,744,1.11487579338292,0.0225222906925942,0.0225222906925942,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,1,744,1.6188225640885805,2.828521291660747,2.828521291660747,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,2,672,1.6225086658971517,2.8391494170596583,2.8391494170596583,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,3,744,1.642939132178026,2.888158005976261,2.888158005976261,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,4,720,1.660698118330904,2.928929498395843,2.928929498395843,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,5,744,1.6785405727559974,2.9702496611026454,2.9702496611026454,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,6,720,1.706516487262955,3.0332535083924643,3.0332535083924643,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,7,744,1.714766620640801,3.0518493925916683,3.0518493925916683,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,8,744,1.7097181518743585,3.0404306964324195,3.0404306964324195,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,9,720,1.685699092338783,2.987519874506884,2.987519874506884,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,10,744,1.6628097517447495,2.935259651011463,2.935259651011463,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,11,720,1.6360291913170164,2.8723555275729784,2.8723555275729784,0.0,0.0
+Mayes_County_OK,Mayes County,3A,USA_OK_Tulsa.Intl.AP.723560_TMY3.epw,water_cooled_evaporative,central,12,744,1.6238000774073538,2.840552251864865,2.840552251864865,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,1,744,1.1121189343275315,0.0063309402744025,0.0063309402744025,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,2,672,1.1161872109026938,0.0583663946062522,0.0583663946062522,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,3,744,1.1157063820822009,0.0607011438718881,0.0607011438718881,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,4,720,1.1364273010506851,0.3388806827152844,0.3388806827152844,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,5,744,1.1687908897159112,0.7582497903885187,0.7582497903885187,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,6,720,1.1912846268622983,1.0049134042665104,1.0049134042665104,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,7,744,1.2879171648850496,2.1387792798286296,2.1387792798286296,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,8,744,1.2468680139034105,1.6649695287425987,1.6649695287425987,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,9,720,1.2426240534687616,1.6521878867102184,1.6521878867102184,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,10,744,1.1592236950162522,0.6365498250093202,0.6365498250093202,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1344714320725062,0.3119613445102527,0.3119613445102527,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,climate_responsive_hybrid,central,12,744,1.1269741234667852,0.2109354399652186,0.2109354399652186,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,1,744,1.6162887859179569,2.8286919808314592,2.8286919808314592,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,2,672,1.621986737275598,2.844133847981439,2.844133847981439,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,3,744,1.6350260950315267,2.875867032440483,2.875867032440483,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,4,720,1.6523487867332396,2.917108857627981,2.917108857627981,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,5,744,1.6715309681379664,2.9603220363141745,2.9603220363141745,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,6,720,1.6869202927558298,2.9953204542175444,2.9953204542175444,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,7,744,1.7063947089210345,3.0400082007765574,3.0400082007765574,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,8,744,1.698661316579317,3.0232065309247345,3.0232065309247345,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,9,720,1.6873934300301985,2.998283135091724,2.998283135091724,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,10,744,1.6566516512192897,2.927473194386435,2.927473194386435,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,11,720,1.6393310130317684,2.885705384652016,2.885705384652016,0.0,0.0
+Henrico_VA,Henrico,4A,USA_VA_Richmond.Intl.AP.724010_TMY3.epw,water_cooled_evaporative,central,12,744,1.6293052948813525,2.86219284297816,2.86219284297816,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,1,744,1.1165434505040766,0.0340128661310681,0.0340128661310681,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,2,672,1.1174063998707406,0.0387175618458202,0.0387175618458202,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,3,744,1.1142218897808662,0.023761897500577,0.023761897500577,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,4,720,1.1202527799228128,0.1084659870975319,0.1084659870975319,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,5,744,1.1607824180579,0.6339967737555395,0.6339967737555395,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,6,720,1.200817818727738,1.1047532361314858,1.1047532361314858,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,7,744,1.230989814582906,1.4596386887405748,1.4596386887405748,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,8,744,1.2539815243848809,1.7425127704498735,1.7425127704498735,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,9,720,1.1742653322603411,0.7808903496720396,0.7808903496720396,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,10,744,1.134910249468427,0.3016890107903361,0.3016890107903361,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1133833978539125,0.0110905115741437,0.0110905115741437,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,climate_responsive_hybrid,central,12,744,1.1155852618364337,0.0187498928551188,0.0187498928551188,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,1,744,1.6126100359349818,2.808755361819129,2.808755361819129,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,2,672,1.614562984776368,2.8135547405348458,2.8135547405348458,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,3,744,1.632259218716959,2.8564506752657235,2.8564506752657235,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,4,720,1.6500694406314829,2.899918560477282,2.899918560477282,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,5,744,1.6743921576440597,2.9560714892967948,2.9560714892967948,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,6,720,1.69684497136272,3.0069535109859533,3.0069535109859533,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,7,744,1.7017865135431085,3.0188745061040043,3.0188745061040043,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,8,744,1.701608701156145,3.018242218216684,3.018242218216684,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,9,720,1.6823389659913994,2.9746153322107847,2.9746153322107847,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,10,744,1.655006016453026,2.912385421536171,2.912385421536171,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,11,720,1.6277605285071206,2.846717638111488,2.846717638111488,0.0,0.0
+Kansas_City_MO,Kansas City,4A,USA_MO_Kansas.City.Intl.AP.724460_TMY3.epw,water_cooled_evaporative,central,12,744,1.615577926500962,2.814178186957091,2.814178186957091,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,1,744,1.1160543968355263,0.0229335416829387,0.0229335416829387,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,2,672,1.114148403314477,0.016290294584794,0.016290294584794,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,3,744,1.113282069199086,0.0200031734557049,0.0200031734557049,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,4,720,1.1147146109332182,0.0405667072382454,0.0405667072382454,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,5,744,1.1633110553790469,0.6705291808462613,0.6705291808462613,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,6,720,1.1452166757566542,0.4212555199720019,0.4212555199720019,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,7,744,1.1938975656607895,1.0362355678589663,1.0362355678589663,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,8,744,1.2226046985998362,1.383988894287975,1.383988894287975,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,9,720,1.1776351966163332,0.8505535742495258,0.8505535742495258,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,10,744,1.133428933193009,0.2884704052732186,0.2884704052732186,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1200936996493351,0.1083593232815194,0.1083593232815194,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,climate_responsive_hybrid,central,12,744,1.115038064668642,0.0255067228322563,0.0255067228322563,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,1,744,1.6055133157067865,2.7926116626883917,2.7926116626883917,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,2,672,1.6075014075954297,2.799990736672357,2.799990736672357,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,3,744,1.6255076068908512,2.8432122899483083,2.8432122899483083,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,4,720,1.641762623100166,2.8826865126583963,2.8826865126583963,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,5,744,1.6666095194591206,2.9411911726809534,2.9411911726809534,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,6,720,1.6776486539346678,2.9669242934522115,2.9669242934522115,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,7,744,1.688695537472871,2.99191083691428,2.99191083691428,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,8,744,1.6908642076943203,2.997086181725519,2.997086181725519,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,9,720,1.674227437117026,2.959077644600961,2.959077644600961,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,10,744,1.6465672667411275,2.896208077297539,2.896208077297539,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,11,720,1.629609066179909,2.852438749593965,2.852438749593965,0.0,0.0
+Fort_Wayne_IN,Fort Wayne,5A,USA_IN_Fort.Wayne.Intl.AP.725330_TMY3.epw,water_cooled_evaporative,central,12,744,1.6111270282560357,2.8050732148623574,2.8050732148623574,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,1,744,1.111676398179314,0.0012205163765384,0.0012205163765384,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,2,672,1.117634373209467,0.0620683228364995,0.0620683228364995,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,3,744,1.1235454830505245,0.1609403294531803,0.1609403294531803,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,4,720,1.130659500606148,0.2543347138620851,0.2543347138620851,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,5,744,1.1832306344768422,0.9230010301991388,0.9230010301991388,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,6,720,1.2267480120103866,1.4184525274567832,1.4184525274567832,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,7,744,1.2744111949420105,1.973196689407271,1.973196689407271,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,8,744,1.2711186974884658,1.928079917884455,1.928079917884455,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,9,720,1.1987887709824854,1.1072987075066425,1.1072987075066425,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,10,744,1.1586774748422408,0.606824650545329,0.606824650545329,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1239636308482823,0.161965399687748,0.161965399687748,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,climate_responsive_hybrid,central,12,744,1.118288819071336,0.0947548073782187,0.0947548073782187,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,1,744,1.62120760969752,2.8364890445781055,2.8364890445781055,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,2,672,1.621815022258405,2.8388679068708775,2.8388679068708775,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,3,744,1.6463328718708663,2.897715690722773,2.897715690722773,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,4,720,1.6542592746081668,2.9159943981141705,2.9159943981141705,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,5,744,1.6779131304978945,2.9701924613784447,2.9701924613784447,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,6,720,1.6974633738257492,3.0149815555117314,3.0149815555117314,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,7,744,1.7082701316608468,3.0386800199460287,3.0386800199460287,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,8,744,1.7073777263427212,3.037646430306027,3.037646430306027,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,9,720,1.6857281794567578,2.988234942632284,2.988234942632284,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,10,744,1.6625818732557407,2.935155401160172,2.935155401160172,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,11,720,1.6423767143691836,2.887722228159116,2.887722228159116,0.0,0.0
+Clarksville_TN,Montgomery County / Clarksville,4A,USA_TN_Nashville.Intl.AP.723270_TMY3.epw,water_cooled_evaporative,central,12,744,1.627861019509799,2.8543914006034794,2.8543914006034794,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,1,744,1.1160683208994886,0.0455268879794553,0.0455268879794553,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,2,672,1.1161106242787942,0.0461309001646463,0.0461309001646463,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,3,744,1.1278982799030175,0.2126734056621467,0.2126734056621467,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,4,720,1.1306429446888937,0.2471089244764756,0.2471089244764756,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,5,744,1.1865422179699894,0.96428075774701,0.96428075774701,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,6,720,1.1930510087512411,1.0146825250995122,1.0146825250995122,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,7,744,1.2553178250747348,1.7464935678571634,1.7464935678571634,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,8,744,1.24361200253784,1.6058221685717222,1.6058221685717222,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,9,720,1.2288650906741696,1.4690134688887002,1.4690134688887002,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,10,744,1.1479557916268426,0.4672752771450758,0.4672752771450758,1.714718928691075e-19,1.714718928691075e-19
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1325175590470906,0.2711601571792119,0.2711601571792119,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,climate_responsive_hybrid,central,12,744,1.1239245559106692,0.1546485638733931,0.1546485638733931,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,1,744,1.6264848236708496,2.8439646788523354,2.8439646788523354,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,2,672,1.6339683238951896,2.863911467928982,2.863911467928982,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,3,744,1.6477115815021677,2.895862259721473,2.895862259721473,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,4,720,1.6595783629750809,2.922944300463242,2.922944300463242,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,5,744,1.6781894631983174,2.9662046543581764,2.9662046543581764,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,6,720,1.692641463383238,2.999271622412918,2.999271622412918,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,7,744,1.706657184084006,3.031281497298211,3.031281497298211,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,8,744,1.7059361670387243,3.0297884235928105,3.0297884235928105,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,9,720,1.6906114951792992,2.9950028940633464,2.9950028940633464,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,10,744,1.66007930232951,2.925178058015935,2.925178058015935,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,11,720,1.644819730716272,2.888752138537634,2.888752138537634,0.0,0.0
+Forest_City_NC,Forest City,3A,USA_SC_Greer.Greenville-Spartanburg.AP.723120_TMY3.epw,water_cooled_evaporative,central,12,744,1.6327047563386217,2.8601764619217773,2.8601764619217773,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,1,744,1.116082114938869,0.0326361412333285,0.0326361412333285,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,2,672,1.1144157646848047,0.0171581373057817,0.0171581373057817,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,3,744,1.1183695088877923,0.0854349310378042,0.0854349310378042,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,4,720,1.125481827460004,0.1823760634238697,0.1823760634238697,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,5,744,1.125090445587842,0.1765950881747209,0.1765950881747209,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,6,720,1.1925480806629072,1.0223696722376006,1.0223696722376006,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,7,744,1.2256016343007576,1.4182297171954692,1.4182297171954692,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,8,744,1.21861754939325,1.350409971871809,1.350409971871809,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,9,720,1.1842853883422708,0.9360116345092316,0.9360116345092316,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,10,744,1.1219961435708523,0.1402730193130269,0.1402730193130269,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,11,720,1.1137213416747616,0.0269375767074437,0.0269375767074437,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,climate_responsive_hybrid,central,12,744,1.118164821812311,0.0763007480123187,0.0763007480123187,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,1,744,1.6126164870019963,2.8113100594015012,2.8113100594015012,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,2,672,1.6133336990652374,2.81283940012443,2.81283940012443,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,3,744,1.630802655900187,2.856803652659214,2.856803652659214,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,4,720,1.6465306550544414,2.893462236418736,2.893462236418736,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,5,744,1.664127371509553,2.9346494917319923,2.9346494917319923,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,6,720,1.683813440530057,2.981632851553204,2.981632851553204,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,7,744,1.6945040605743278,3.005804639662519,3.005804639662519,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,8,744,1.6899460579365495,2.995658007713311,2.995658007713311,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,9,720,1.6731441237846156,2.9574548413277726,2.9574548413277726,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,10,744,1.6443131362061796,2.8904703211786256,2.8904703211786256,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,11,720,1.6341269444567723,2.864048228026814,2.864048228026814,0.0,0.0
+New_Albany_OH,New Albany,5A,USA_OH_Columbus-Port.Columbus.Intl.AP.724280_TMY3.epw,water_cooled_evaporative,central,12,744,1.618649146309148,2.827506409256067,2.827506409256067,0.0,0.0

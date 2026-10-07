@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "method": "Descriptive two-way sum-of-squares decomposition of log10 system-level pressure quantiles in the balanced 10-location by 2-architecture matrix; daily values are not treated as independent replicates.",
+  "central_p95_decomposition": {
+    "location_percent": 93.6572212159243,
+    "architecture_percent": 5.751321061346246,
+    "interaction_residual_percent": 0.5914577227294738,
+    "practice": "central",
+    "quantile": 0.95
+  },
+  "central_location_share_across_p90_p99_percent": {
+    "minimum": 91.57757363026327,
+    "maximum": 94.72957195940145
+  },
+  "p95_location_share_across_wue_practices_percent": {
+    "minimum": 78.53649133123622,
+    "maximum": 95.58228546005856
+  },
+  "central_within_location_architecture_ratio": {
+    "minimum": 1.9394482880312494,
+    "median": 2.91805043828127,
+    "maximum": 6.897884827069475
+  },
+  "seattle_documented_source_share_sensitivity": {
+    "source_share_interval": [
+      0.6,
+      0.7
+    ],
+    "climate_responsive_hybrid_p95_pct": [
+      0.22894724006586697,
+      0.2671051134101781
+    ],
+    "water_cooled_evaporative_p95_pct": [
+      1.5792516934497765,
+      1.842460309024739
+    ]
+  },
+  "common_period_maximum_absolute_p95_change_percent": 4.988923349578966,
+  "reference_load_sensitivity": {
+    "minimum_50_mw_pct": 0.004911831724893101,
+    "maximum_500_mw_pct": 51.09182106589923
+  },
+  "hourly_envelope_evaluations": 350400,
+  "central_daily_rows": 216894,
+  "reproduction_seed": 20260820
+}
