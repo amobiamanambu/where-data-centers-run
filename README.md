@@ -1,6 +1,6 @@
 # Where Data Centers Run
 
-Hydrologic analysis, derived data, and selected figures for evaluating how data-center water demand relates to the water systems that supply it.
+Hydrologic analysis and derived data for evaluating how data-center water demand relates to the water systems that supply it.
 
 ![Modeled cooling demand in relation to observed source flow](figures/source_flow_timing.png)
 
@@ -21,7 +21,7 @@ These percentages are comparative hydrological indicators. They do not measure w
 | `data/derived/` | Report-derived water, energy, cooling, source-system, and hydrological tables |
 | `data/provenance/` | Source register with URLs, locators, verification notes, and analytical boundaries |
 | `results/` | Recomputed summaries, rankings, headline statistics, and 50–500 MW sensitivity results |
-| `figures/` | Selected final graphics from the analysis |
+| `figures/` | One representative result graphic |
 
 ## Reproduce the results
 
@@ -47,24 +47,6 @@ The release keeps distinct quantities separate:
 5. Managed municipal and reuse systems are presented as system cases; their pathways are not assigned to individual facilities.
 
 The source-flow analysis uses 27–30 years of daily records ending 30 September 2025. Clarksville omits 35 incomplete days, New Albany omits two missing dates without interpolation, and Forest City contributes 27 complete water years. Restricting all systems to the common 27-year period changes every p95 estimate by less than 5% and does not change the ordering.
-
-## Selected figures
-
-### Study locations and evidence chain
-
-![Study locations and source-chain evidence](figures/study_locations.png)
-
-### Withdrawal, consumption, and water source
-
-![Withdrawal, consumption, and source composition](figures/withdrawal_consumption_and_source.png)
-
-### Managed systems and river context
-
-![Managed systems and river context](figures/managed_systems_and_river_context.png)
-
-### Accounting and hydrological context
-
-![Accounting and hydrological context](figures/accounting_and_hydrological_context.png)
 
 ## Data provenance and reuse
 
